@@ -4,7 +4,7 @@ This repository contains 4 Jupyter Notebooks designed to help students learning 
 
 ---
 
-## 📚 What is inside this repository?
+## What is inside this repository?
 
 ### 1. `3n+1.ipynb` — Collatz Conjecture
 * **What it does:** You enter a positive whole number, and the program runs the Collatz rules ($3n + 1$ for odd numbers, $n / 2$ for even numbers) to print the sequence until it reaches **1**.
@@ -30,7 +30,7 @@ This repository contains 4 Jupyter Notebooks designed to help students learning 
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 To run these notebooks, you will need:
 * Python 3
