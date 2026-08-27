@@ -41,11 +41,3 @@ You can install `matplotlib` using pip:
 ```bash
 pip install matplotlib
 ```
-## 🚀 How to Use
-
-1. **Clone or download** this repository.
-2. Open your terminal or command prompt and start Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-3. Open the notebooks in order (from 1 to 4) to build your Python skills step-by-step!
