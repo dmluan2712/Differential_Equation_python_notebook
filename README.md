@@ -31,6 +31,12 @@ This repository contains 4 Jupyter Notebooks designed to help students learning 
 
 ---
 
+### 5. `Plot.ipynb` &mdash; 1nd Order system of ODEs
+* **What it does:** Provides examples of different *phase portraits* of linear systems of the form $A'=AX$ to understand how eigenvalues of $A$ impacts how the solution trajectories $(x(t), y(t))$ look on the $xy$-coordinates  
+* **Why it helps:** Connects linear algebra with differential equations
+
+---
+
 ## Requirements
 
 To run these notebooks, you will need:
@@ -38,7 +44,7 @@ To run these notebooks, you will need:
 * Jupyter Notebook or JupyterLab
 * `matplotlib` library
 
-You can install `matplotlib` using pip:
+You can install `matplotlib` and `numpy` using pip:
 ```bash
-pip install matplotlib
+pip install matplotlib numpy
 ```
